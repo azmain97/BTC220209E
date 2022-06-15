@@ -1,0 +1,7 @@
+cd-----change directory
+pwd====present word directory
+mkdir-----create folder
+touch====create file
+ls------to see what a folder contains 
+vi======is a editor (text)
+cat------to see what a file contains
